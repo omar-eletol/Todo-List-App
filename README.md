@@ -3,6 +3,8 @@ TO-DO Notes - Code
 
 this is a toy app for (android-testing) 
 
+https://developer.android.com/codelabs/advanced-android-kotlin-training-testing-basics#0
+
 Introduction
 ------------
 
